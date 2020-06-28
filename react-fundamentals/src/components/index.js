@@ -1,5 +1,9 @@
-import { First } from "./basics";
+import {
+    First,
+    WithParameter
+} from "./basics";
 
 export {
-    First
+    First,
+    WithParameter
 }

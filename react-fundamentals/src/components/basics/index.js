@@ -1,5 +1,7 @@
-import First from "./first";
+import { First } from "./first";
+import { WithParameter } from "./withParameter";
 
 export {
-    First
+    First,
+    WithParameter
 }
