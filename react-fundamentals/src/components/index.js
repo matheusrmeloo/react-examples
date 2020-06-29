@@ -1,9 +1,11 @@
 import {
     First,
-    WithParameter
+    WithParameter,
+    Random
 } from "./basics";
 
 export {
     First,
-    WithParameter
+    WithParameter,
+    Random
 }
